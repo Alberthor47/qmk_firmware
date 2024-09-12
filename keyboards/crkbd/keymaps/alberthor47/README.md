@@ -1,0 +1,2 @@
+To put keyboard in DFU (bootloader) mode, press and hold the reset button on the back of the keyboard, then press and hold the key on the front of the keyboard. Release the reset button, then release the key. The keyboard should now be in bootloader mode.
+```

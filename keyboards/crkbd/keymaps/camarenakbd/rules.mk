@@ -1,0 +1,11 @@
+RGBLIGHT_ENABLE    = no
+RGB_MATRIX_ENABLE  = yes
+RGB_MATRIX_DRIVER  = ws2812
+MOUSEKEY_ENABLE    = no
+NKRO_ENABLE        = yes
+OLED_ENABLE        = yes
+OLED_DRIVER        = ssd1306
+TAP_DANCE_ENABLE   = yes
+SEND_STRING_ENABLE = yes
+VIA_ENABLE         = yes
+LTO_ENABLE         = yes
